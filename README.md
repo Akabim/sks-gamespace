@@ -8,7 +8,7 @@ Mungkin dari temen-temen banyak pertanyaan:
 
 ### 💬 "Bim, MPK ini kok gaada pas ngisi FRS?"
 
-Memang *guys*, MPK itu nanti akan otomatis ada ketika UKM memproses nilai temen-temen, jadi tenang aja. Buktinya bisa dicek di gambar dibawah ini:
+Memang *guys*, MPK itu tidak diambil waktu FRS diawal. MPK itu nanti akan otomatis ada ketika UKM memproses nilai temen-temen, jadi tenang aja. Buktinya bisa dicek di gambar dibawah ini:
 
 
 <img width="571" height="626" alt="image" src="https://github.com/user-attachments/assets/fce092ec-3ec6-4228-aa58-94dd98abef70" />
