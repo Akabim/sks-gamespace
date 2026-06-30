@@ -45,7 +45,7 @@ Liat semester kalian, nanti akan ada MPK.
 ### 💬 "Kode MPK dapet darimana?"
 
 MPK itu kodenya **"KM00000[nomor MPK]"**.
-Jadi semisal kalian MPK 2, maka kodenya adalah **"KM000002"**. Begitu.
+Jadi semisal kalian **MPK 2**, maka kodenya adalah **"KM000002"**. Begitu.
 
 ---
 
